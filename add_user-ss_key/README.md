@@ -1,7 +1,6 @@
 Role Name
 =========
-
-A brief description of the role goes here.
+![users and ssh key](https://user-images.githubusercontent.com/72060000/109306122-b4037c00-780c-11eb-8a73-3cfdecb19f67.png)A brief description of the role goes here.
 
 Requirements
 ------------
